@@ -29,6 +29,9 @@
 - [affordable orthotics Barrie, a practical checklist](https://local-business-guides.github.io/pro-motion-healthcare-barrie/affordable-orthotics-barrie/): Compare affordable orthotics Barrie options and learn what to ask before choosing local foot support.
 - [orthotics & prosthetics service barrie, what to ask](https://local-business-guides.github.io/pro-motion-healthcare-barrie/orthotics-prosthetics-service-barrie/): Find orthotics & prosthetics service barrie guidance and learn what to prepare for a local care conversation.
 
+## Newsroom
+- [Pro Motion Healthcare Shares Orthotics Barrie Guide in Multiple Formats](https://local-business-guides.github.io/pro-motion-healthcare-barrie/news/2026-10-25-pro-motion-healthcare-shares-orthotics-barrie-guid/): Pro Motion Healthcare has published an Orthotics Barrie guide, with related content on YouTube, in a podcast, on SoundCloud and on its website. (2026-10-25)
+
 ## Pages
 - [Orthotics in Barrie, Ontario](https://local-business-guides.github.io/pro-motion-healthcare-barrie/): Custom orthotics, physiotherapy, and related care to help you work toward your goals in Barrie. Call +1705-315-0111.
 - [About Pro Motion Healthcare in Barrie](https://local-business-guides.github.io/pro-motion-healthcare-barrie/about/): About Pro Motion Healthcare, Barrie.
@@ -36,3 +39,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/pro-motion-healthcare-barrie/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/pro-motion-healthcare-barrie/news/rss.xml)
